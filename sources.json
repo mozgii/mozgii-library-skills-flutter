@@ -1,0 +1,1652 @@
+{
+ "sources": [
+  {
+   "from": "https://github.com/flutter/agent-plugins/tree/90fa51dc9d1bd6694cee226397e08ec8193e9e69/skills",
+   "commit": "90fa51dc9d1bd6694cee226397e08ec8193e9e69",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/quality/flutter-add-integration-test/SKILL.md",
+    "docs/v3.47/ui/flutter-add-widget-preview/SKILL.md",
+    "docs/v3.47/quality/flutter-add-widget-test/SKILL.md",
+    "docs/v3.47/architecture/flutter-apply-architecture-best-practices/SKILL.md",
+    "docs/v3.47/ui/flutter-build-responsive-layout/SKILL.md",
+    "docs/v3.47/ui/flutter-fix-layout-issues/SKILL.md",
+    "docs/v3.47/architecture/flutter-implement-json-serialization/SKILL.md",
+    "docs/v3.47/architecture/flutter-setup-declarative-routing/SKILL.md",
+    "docs/v3.47/ui/flutter-setup-localization/SKILL.md",
+    "docs/v3.47/architecture/flutter-use-http-package/SKILL.md",
+    "docs/v3.47/rules/flutter-hot-reload/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/dart-lang/skills/tree/bf984f3ef223dd85e92036f934bbcb6bf301e4ce/skills",
+   "commit": "bf984f3ef223dd85e92036f934bbcb6bf301e4ce",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-unit-test/SKILL.md",
+    "docs/v3.47/dart/dart-patterns/SKILL.md",
+    "docs/v3.47/dart/dart-primary-constructors/SKILL.md",
+    "docs/v3.47/dart/dart-analyze-and-fix/SKILL.md",
+    "docs/v3.47/dart/dart-manage-dependencies/SKILL.md",
+    "docs/v3.47/dart/dart-native-assets/SKILL.md",
+    "docs/v3.47/dart/dart-doc-comments/SKILL.md",
+    "docs/v3.47/dart/dart-path-handling/SKILL.md",
+    "docs/v3.47/dart/dart-build-cli-tool/SKILL.md",
+    "docs/v3.47/dart/dart-unit-test/references/checks-migration.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/dart-lang/ai/tree/bdf8ad8f6a343064bb03812a8a34ac1347e1b763/pkgs/dart_mcp_server",
+   "commit": "bdf8ad8f6a343064bb03812a8a34ac1347e1b763",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/quality/flutter-agent-tooling/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/flutter/packages/tree/e830a53712a7344872c827360c0e9ae87c9f243d/.agents/skills/material-3-expressive-migration",
+   "commit": "e830a53712a7344872c827360c0e9ae87c9f243d",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-core/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/flutter/website/tree/0bc43fcc88cf8cb8094d6600e3931f0874a00283",
+   "commit": "0bc43fcc88cf8cb8094d6600e3931f0874a00283",
+   "license": "CC-BY-4.0 (text), BSD-3-Clause (code)",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/ui/flutter-add-widget-preview/SKILL.md",
+    "docs/v3.47/quality/flutter-agent-tooling/SKILL.md",
+    "docs/v3.47/architecture/flutter-apply-architecture-best-practices/SKILL.md",
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/quality/flutter-performance/SKILL.md",
+    "docs/v3.47/quality/flutter-security/SKILL.md",
+    "docs/v3.47/ui/flutter-setup-localization/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/dart-lang/site-www/tree/65689ef23022fb619bff44ad9500ba2b79d250e0",
+   "commit": "65689ef23022fb619bff44ad9500ba2b79d250e0",
+   "license": "CC-BY-4.0 (text), BSD-3-Clause (code)",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-native-assets/SKILL.md",
+    "docs/v3.47/quality/flutter-agent-tooling/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.android.com/google/play/requirements/target-sdk",
+   "commit": "page last updated 2026-10-28",
+   "license": "Android Developers content licence (facts only)",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/news/upcoming-requirements/",
+   "commit": "page read 2026-10-30",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/checks/versions/0.3.2",
+   "commit": "published archive 0.3.2",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-unit-test/SKILL.md",
+    "docs/v3.47/dart/dart-unit-test/references/checks-migration.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/coverage/versions/1.16.0",
+   "commit": "published archive 1.16.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-unit-test/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/cupertino_ui/versions/1.1.5",
+   "commit": "published archive 1.1.5",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/ui/flutter-animations/references/transitions.md",
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/ui/flutter-design-ui/references/adaptive-shell.md",
+    "docs/v3.47/ui/flutter-theme/references/adaptive-components.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/dart_mcp_server/versions/1.2.2",
+   "commit": "published archive 1.2.2",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/quality/flutter-add-integration-test/SKILL.md",
+    "docs/v3.47/quality/flutter-agent-tooling/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/dio_cache_interceptor/versions/4.0.7",
+   "commit": "published archive 4.0.7",
+   "license": "Apache-2.0",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-network/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/references/caching-and-deduplication.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/drift/versions/2.35.3",
+   "commit": "published archive 2.35.3",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/SKILL.md",
+    "docs/v3.47/architecture/flutter-database/references/conflict-policies.md",
+    "docs/v3.47/architecture/flutter-database/references/database-tests.md",
+    "docs/v3.47/architecture/flutter-database/references/grpc-streaming.md",
+    "docs/v3.47/architecture/flutter-database/references/repository-pattern.md",
+    "docs/v3.47/quality/flutter-security/SKILL.md",
+    "docs/v3.47/quality/flutter-security/references/encrypted-database.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/ffigen/versions/23.0.0",
+   "commit": "published archive 23.0.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-native-assets/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/firebase_ai/versions/5.1.0",
+   "commit": "published archive 5.1.0",
+   "license": "Apache-2.0",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/features/flutter-llm/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/firebase_app_check/versions/0.5.1",
+   "commit": "published archive 0.5.1",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-firebase/RULE.md",
+    "docs/v3.47/architecture/flutter-core/references/api-client.md",
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md",
+    "docs/v3.47/features/flutter-llm/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/references/rest-interceptors.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_edge_ai/versions/2.5.4",
+   "commit": "published archive 2.5.4",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/features/flutter-llm/SKILL.md",
+    "docs/v3.47/features/flutter-llm/references/on-device-models.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_edge_ai_litertlm/versions/1.19.0",
+   "commit": "published archive 1.19.0",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/features/flutter-llm/SKILL.md",
+    "docs/v3.47/features/flutter-llm/references/on-device-models.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_gemma/versions/1.11.4",
+   "commit": "published archive 1.11.4",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/features/flutter-llm/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_local_notifications/versions/22.3.3",
+   "commit": "published archive 22.3.3",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/local-notifications.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_riverpod/versions/3.4.3",
+   "commit": "published archive 3.4.3",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/rules/flutter-architecture/RULE.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md",
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/features/flutter-analytics-firebase/references/screen-tracking.md",
+    "docs/v3.47/ui/flutter-animations/references/rive-and-lottie.md",
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-core/references/analytics-and-crash-reporting.md",
+    "docs/v3.47/architecture/flutter-core/references/riverpod-patterns.md",
+    "docs/v3.47/architecture/flutter-core/references/routing-and-login-screen.md",
+    "docs/v3.47/architecture/flutter-core/references/testing-setup.md",
+    "docs/v3.47/ui/flutter-design-ui/SKILL.md",
+    "docs/v3.47/features/flutter-device-intelligence/references/known-devices-screen.md",
+    "docs/v3.47/features/flutter-llm/SKILL.md",
+    "docs/v3.47/features/flutter-llm/references/on-device-models.md",
+    "docs/v3.47/features/flutter-llm/references/voice-pipeline.md",
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/permissions.md",
+    "docs/v3.47/features/flutter-payments/references/paywall-ui.md",
+    "docs/v3.47/quality/flutter-performance/SKILL.md",
+    "docs/v3.47/quality/flutter-performance/references/production-monitoring.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/references/cold-start-hydration.md",
+    "docs/v3.47/architecture/flutter-state/references/connectivity-ui.md",
+    "docs/v3.47/architecture/flutter-state/references/pin-storage-and-biometrics.md",
+    "docs/v3.47/architecture/flutter-state/references/theme-toggle.md",
+    "docs/v3.47/ui/flutter-theme/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_secure_storage/versions/11.2.0",
+   "commit": "published archive 11.2.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/SKILL.md",
+    "docs/v3.47/features/flutter-auth/references/pin-lock.md",
+    "docs/v3.47/features/flutter-auth/references/provider-data-sources.md",
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md",
+    "docs/v3.47/features/flutter-device-intelligence/references/context-collectors.md",
+    "docs/v3.47/architecture/flutter-network/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/references/graphql.md",
+    "docs/v3.47/architecture/flutter-network/references/grpc.md",
+    "docs/v3.47/architecture/flutter-network/references/token-refresh-tests.md",
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/token-lifecycle.md",
+    "docs/v3.47/quality/flutter-security/SKILL.md",
+    "docs/v3.47/quality/flutter-security/references/android-hardening.md",
+    "docs/v3.47/quality/flutter-security/references/encrypted-database.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/references/pin-storage-and-biometrics.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_stripe/versions/14.2.0",
+   "commit": "published archive 14.2.0",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/SKILL.md",
+    "docs/v3.47/features/flutter-payments/references/native-pay-buttons.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/freezed/versions/4.0.3",
+   "commit": "published archive 4.0.3",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-primary-constructors/SKILL.md",
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/go_router/versions/18.1.2",
+   "commit": "published archive 18.1.2",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-architecture/RULE.md",
+    "docs/v3.47/dart/dart-manage-dependencies/SKILL.md",
+    "docs/v3.47/features/flutter-analytics-firebase/references/screen-tracking.md",
+    "docs/v3.47/ui/flutter-animations/references/transitions.md",
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-core/references/routing-and-login-screen.md",
+    "docs/v3.47/ui/flutter-design-ui/references/adaptive-shell.md",
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/architecture/flutter-setup-declarative-routing/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/go_router_builder/versions/4.5.3",
+   "commit": "published archive 4.5.3",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-setup-declarative-routing/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/google_sign_in/versions/7.2.0",
+   "commit": "published archive 7.2.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/SKILL.md",
+    "docs/v3.47/features/flutter-auth/references/provider-data-sources.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/graphql/versions/5.2.4",
+   "commit": "published archive 5.2.4",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-network/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/hive_ce/versions/2.22.0",
+   "commit": "published archive 2.22.0",
+   "license": "Apache-2.0",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/hooks/versions/2.2.0",
+   "commit": "published archive 2.2.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-native-assets/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/http_cache_core/versions/1.1.4",
+   "commit": "published archive 1.1.4",
+   "license": "Apache-2.0",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-network/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/http_cache_hive_store/versions/5.1.1",
+   "commit": "published archive 5.1.1",
+   "license": "Apache-2.0",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-network/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/references/caching-and-deduplication.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/isar_community/versions/3.4.1",
+   "commit": "published archive 3.4.1",
+   "license": "Apache-2.0",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/SKILL.md",
+    "docs/v3.47/architecture/flutter-database/references/isar-and-hive.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/local_auth/versions/3.0.2",
+   "commit": "published archive 3.0.2",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/SKILL.md",
+    "docs/v3.47/features/flutter-auth/references/provider-data-sources.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/references/pin-storage-and-biometrics.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/material_ui/versions/1.9.0",
+   "commit": "published archive 1.9.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/rules/flutter-architecture/RULE.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md",
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/features/flutter-analytics-firebase/references/performance-monitoring.md",
+    "docs/v3.47/features/flutter-analytics-firebase/references/screen-tracking.md",
+    "docs/v3.47/ui/flutter-animations/SKILL.md",
+    "docs/v3.47/ui/flutter-animations/references/flutter-animate-effects.md",
+    "docs/v3.47/ui/flutter-animations/references/fragment-shaders.md",
+    "docs/v3.47/ui/flutter-animations/references/rive-and-lottie.md",
+    "docs/v3.47/ui/flutter-animations/references/transitions.md",
+    "docs/v3.47/features/flutter-auth/references/email-and-magic-link.md",
+    "docs/v3.47/features/flutter-auth/references/mfa-and-otp.md",
+    "docs/v3.47/features/flutter-auth/references/pin-lock.md",
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-core/references/analytics-and-crash-reporting.md",
+    "docs/v3.47/architecture/flutter-core/references/riverpod-patterns.md",
+    "docs/v3.47/architecture/flutter-core/references/routing-and-login-screen.md",
+    "docs/v3.47/architecture/flutter-core/references/testing-setup.md",
+    "docs/v3.47/architecture/flutter-database/references/isar-and-hive.md",
+    "docs/v3.47/ui/flutter-design-ui/SKILL.md",
+    "docs/v3.47/ui/flutter-design-ui/references/adaptive-shell.md",
+    "docs/v3.47/ui/flutter-design-ui/references/design-tokens.md",
+    "docs/v3.47/ui/flutter-design-ui/references/painters-and-dark-mode.md",
+    "docs/v3.47/ui/flutter-design-ui/references/responsive-layouts.md",
+    "docs/v3.47/features/flutter-device-intelligence/references/known-devices-screen.md",
+    "docs/v3.47/features/flutter-llm/SKILL.md",
+    "docs/v3.47/features/flutter-llm/references/on-device-models.md",
+    "docs/v3.47/features/flutter-llm/references/voice-pipeline.md",
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/permissions.md",
+    "docs/v3.47/features/flutter-payments/references/native-pay-buttons.md",
+    "docs/v3.47/features/flutter-payments/references/paywall-ui.md",
+    "docs/v3.47/quality/flutter-performance/SKILL.md",
+    "docs/v3.47/quality/flutter-performance/references/production-monitoring.md",
+    "docs/v3.47/quality/flutter-security/SKILL.md",
+    "docs/v3.47/quality/flutter-security/references/screen-privacy.md",
+    "docs/v3.47/architecture/flutter-setup-declarative-routing/SKILL.md",
+    "docs/v3.47/architecture/flutter-setup-declarative-routing/references/example-screens.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/references/cold-start-hydration.md",
+    "docs/v3.47/architecture/flutter-state/references/connectivity-ui.md",
+    "docs/v3.47/architecture/flutter-state/references/pin-storage-and-biometrics.md",
+    "docs/v3.47/architecture/flutter-state/references/theme-toggle.md",
+    "docs/v3.47/ui/flutter-theme/SKILL.md",
+    "docs/v3.47/ui/flutter-theme/references/adaptive-components.md",
+    "docs/v3.47/ui/flutter-theme/references/liquid-glass.md",
+    "docs/v3.47/ui/flutter-theme/references/tokens.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/mockito/versions/5.8.1",
+   "commit": "published archive 5.8.1",
+   "license": "Apache-2.0",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-unit-test/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/mocktail/versions/1.0.5",
+   "commit": "published archive 1.0.5",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-unit-test/SKILL.md",
+    "docs/v3.47/architecture/flutter-core/references/testing-setup.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/native_toolchain_c/versions/0.19.5",
+   "commit": "published archive 0.19.5",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/dart/dart-native-assets/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/no_screenshot/versions/2.0.1",
+   "commit": "published archive 2.0.1",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/quality/flutter-security/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/pinput/versions/7.0.0",
+   "commit": "published archive 7.0.0",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/dart/dart-manage-dependencies/SKILL.md",
+    "docs/v3.47/features/flutter-auth/references/mfa-and-otp.md",
+    "docs/v3.47/features/flutter-auth/references/pin-lock.md",
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/references/pin-storage-and-biometrics.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/purchases_flutter/versions/11.0.0",
+   "commit": "published archive 11.0.0",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/SKILL.md",
+    "docs/v3.47/features/flutter-payments/references/paywall-ui.md",
+    "docs/v3.47/features/flutter-payments/references/server-receipt-validation.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/rive/versions/0.14.11",
+   "commit": "published archive 0.14.11",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/ui/flutter-animations/SKILL.md",
+    "docs/v3.47/ui/flutter-animations/references/rive-and-lottie.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/riverpod/versions/3.4.3",
+   "commit": "published archive 3.4.3",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/riverpod_annotation/versions/4.0.7",
+   "commit": "published archive 4.0.7",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/features/flutter-auth/SKILL.md",
+    "docs/v3.47/features/flutter-auth/references/auth-analytics.md",
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-core/references/riverpod-patterns.md",
+    "docs/v3.47/architecture/flutter-core/references/routing-and-login-screen.md",
+    "docs/v3.47/architecture/flutter-database/references/grpc-streaming.md",
+    "docs/v3.47/features/flutter-notifications/references/permissions.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/references/cold-start-hydration.md",
+    "docs/v3.47/architecture/flutter-state/references/connectivity-ui.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/riverpod_generator/versions/4.0.9",
+   "commit": "published archive 4.0.9",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/screen_protector/versions/1.5.3",
+   "commit": "published archive 1.5.3",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/quality/flutter-security/SKILL.md",
+    "docs/v3.47/quality/flutter-security/references/screen-privacy.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/sqlcipher_flutter_libs/versions/0.7.0+eol",
+   "commit": "published archive 0.7.0+eol",
+   "license": "Apache-2.0",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/quality/flutter-security/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/sqlite3/versions/3.8.0",
+   "commit": "published archive 3.8.0",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/SKILL.md",
+    "docs/v3.47/quality/flutter-security/SKILL.md",
+    "docs/v3.47/quality/flutter-security/references/encrypted-database.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/sqlite3_flutter_libs/versions/0.6.0+eol",
+   "commit": "published archive 0.6.0+eol",
+   "license": "MIT",
+   "read": "2026-10-30",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/app-store/review/guidelines/",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/SKILL.md",
+    "docs/v3.47/features/flutter-payments/SKILL.md",
+    "docs/v3.47/features/flutter-payments/references/store-rules-and-fees.md",
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/app-store/small-business-program/",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/store-rules-and-fees.md",
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/app-store/business-models/",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/store-rules-and-fees.md",
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/support/apps-in-the-eu",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/store-rules-and-fees.md",
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/news/?id=dadukodv",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/store-rules-and-fees.md",
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/app-store/user-privacy-and-data-use/",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/documentation/bundleresources/privacy-manifest-files",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/documentation/appstoreserverapi",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/server-receipt-validation.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/help/app-store-connect/reference/app-information/screenshot-specifications/",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/forums/thread/81150",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/forums/thread/671678",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://support.google.com/googleplay/android-developer/answer/112622",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/store-rules-and-fees.md",
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://support.google.com/googleplay/android-developer/answer/10281818",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/store-rules-and-fees.md",
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://support.google.com/googleplay/android-developer/answer/16470497",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/store-rules-and-fees.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://support.google.com/googleplay/android-developer/answer/10144311",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://support.google.com/googleplay/android-developer/answer/13327111",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.android.com/google/play/billing/security",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/server-receipt-validation.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.android.com/identity/user-data-ids",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.android.com/privacy-and-security/security-config",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/quality/flutter-security/references/android-hardening.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/projects/api-keys",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/analytics/configure-data-collection",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/analytics/android/configure-data-collection",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/analytics/userid",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/crashlytics/flutter/customize-crash-reports",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/references/crashlytics-reporting.md",
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/crashlytics/flutter/get-deobfuscated-reports",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/quality/flutter-security/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/perf-mon/disable-sdk",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/features/flutter-analytics-firebase/references/performance-monitoring.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/perf-mon/app-start-foreground-background-traces",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/references/performance-monitoring.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/app-check/custom-resource-backend",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/app-check/enable-enforcement",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/app-check/flutter/debug-provider",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/auth/flutter/federated-auth",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/references/provider-data-sources.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/reference/rules/rules.firestore.Request",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://docs.cloud.google.com/identity-platform/docs/admin/email-enumeration-protection",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developers.google.com/tag-platform/security/guides/app-consent",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://support.google.com/analytics/answer/9267744",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://docs.stripe.com/webhooks",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/server-receipt-validation.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://www.revenuecat.com/docs/integrations/webhooks/event-types-and-fields",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/server-receipt-validation.md",
+    "docs/v3.47/features/flutter-payments/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://www.revenuecat.com/docs/customers/customer-info",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/SKILL.md",
+    "docs/v3.47/features/flutter-payments/references/server-receipt-validation.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://owasp.org/www-project-mobile-top-10/",
+   "commit": "page and repository index read 2026-10-31",
+   "license": "OWASP project page (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/quality/flutter-security/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html",
+   "commit": "page read 2026-10-31",
+   "license": "CC-BY-SA-4.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/references/pin-lock.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/google/bundletool/tree/586a43a450712a1067f3d92cf7574dee68226302",
+   "commit": "586a43a450712a1067f3d92cf7574dee68226302",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-store-compliance/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/dio/versions/5.11.1",
+   "commit": "published archive 5.11.1",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-analytics-firebase/references/performance-monitoring.md",
+    "docs/v3.47/features/flutter-auth/references/mfa-and-otp.md",
+    "docs/v3.47/architecture/flutter-core/references/api-client.md",
+    "docs/v3.47/architecture/flutter-core/references/data-layer.md",
+    "docs/v3.47/architecture/flutter-core/references/testing-setup.md",
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md",
+    "docs/v3.47/features/flutter-device-intelligence/references/known-devices-screen.md",
+    "docs/v3.47/features/flutter-llm/SKILL.md",
+    "docs/v3.47/features/flutter-llm/references/voice-pipeline.md",
+    "docs/v3.47/architecture/flutter-network/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/references/offline-queue.md",
+    "docs/v3.47/architecture/flutter-network/references/rest-interceptors.md",
+    "docs/v3.47/architecture/flutter-network/references/token-refresh-tests.md",
+    "docs/v3.47/features/flutter-payments/SKILL.md",
+    "docs/v3.47/quality/flutter-performance/references/production-monitoring.md",
+    "docs/v3.47/quality/flutter-security/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/native_dio_adapter/versions/1.8.0",
+   "commit": "published archive 1.8.0",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-network/references/rest-interceptors.md",
+    "docs/v3.47/quality/flutter-security/SKILL.md",
+    "docs/v3.47/quality/flutter-security/references/android-hardening.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/supabase_flutter/versions/2.18.3",
+   "commit": "published archive 2.18.3",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/SKILL.md",
+    "docs/v3.47/features/flutter-auth/references/email-and-magic-link.md",
+    "docs/v3.47/features/flutter-auth/references/mfa-and-otp.md",
+    "docs/v3.47/features/flutter-auth/references/provider-data-sources.md",
+    "docs/v3.47/architecture/flutter-database/references/supabase-and-firestore.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/gotrue/versions/2.27.3",
+   "commit": "published archive 2.27.3",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/references/email-and-magic-link.md",
+    "docs/v3.47/features/flutter-auth/references/mfa-and-otp.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/pay/versions/3.3.0",
+   "commit": "published archive 3.3.0",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/references/native-pay-buttons.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_jailbreak_detection/versions/1.10.0",
+   "commit": "published archive 1.10.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/quality/flutter-security/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/device_info_plus/versions/13.3.0",
+   "commit": "published archive 13.3.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md",
+    "docs/v3.47/features/flutter-device-intelligence/references/context-collectors.md",
+    "docs/v3.47/ui/flutter-theme/references/liquid-glass.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/envied/versions/1.3.10",
+   "commit": "published archive 1.3.10",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/quality/flutter-security/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/firebase_analytics/versions/13.0.1",
+   "commit": "published archive 13.0.1",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-firebase/RULE.md",
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/features/flutter-analytics-firebase/references/event-taxonomy.md",
+    "docs/v3.47/features/flutter-analytics-firebase/references/screen-tracking.md",
+    "docs/v3.47/features/flutter-auth/references/auth-analytics.md",
+    "docs/v3.47/architecture/flutter-core/references/analytics-and-crash-reporting.md",
+    "docs/v3.47/architecture/flutter-core/references/api-client.md",
+    "docs/v3.47/features/flutter-llm/references/voice-pipeline.md",
+    "docs/v3.47/quality/flutter-performance/references/production-monitoring.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/firebase_auth/versions/7.0.1",
+   "commit": "published archive 7.0.1",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/SKILL.md",
+    "docs/v3.47/features/flutter-auth/references/auth-analytics.md",
+    "docs/v3.47/features/flutter-auth/references/email-and-magic-link.md",
+    "docs/v3.47/features/flutter-auth/references/mfa-and-otp.md",
+    "docs/v3.47/features/flutter-auth/references/provider-data-sources.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/firebase_performance/versions/0.12.1",
+   "commit": "published archive 0.12.1",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/rules/flutter-firebase/RULE.md",
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/features/flutter-analytics-firebase/references/performance-monitoring.md",
+    "docs/v3.47/architecture/flutter-core/references/api-client.md",
+    "docs/v3.47/quality/flutter-performance/references/production-monitoring.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/firebase_app_installations/versions/0.5.1",
+   "commit": "published archive 0.5.1",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/sign_in_with_apple/versions/8.2.0",
+   "commit": "published archive 8.2.0",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/SKILL.md",
+    "docs/v3.47/features/flutter-auth/references/provider-data-sources.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/connectivity_plus/versions/7.3.2",
+   "commit": "published archive 7.3.2",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/SKILL.md",
+    "docs/v3.47/architecture/flutter-database/references/database-tests.md",
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/references/offline-queue.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/geolocator/versions/14.1.2",
+   "commit": "published archive 14.1.2",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-device-intelligence/SKILL.md",
+    "docs/v3.47/features/flutter-device-intelligence/references/context-collectors.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/cryptography/versions/2.9.0",
+   "commit": "published archive 2.9.0",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-auth/references/pin-lock.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md",
+    "docs/v3.47/architecture/flutter-state/references/pin-storage-and-biometrics.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/stripe_platform_interface/versions/14.2.0",
+   "commit": "published archive 14.2.0",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/firebase_messaging/versions/17.0.1",
+   "commit": "published archive 17.0.1",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/permissions.md",
+    "docs/v3.47/features/flutter-notifications/references/token-lifecycle.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/grpc/versions/5.2.0",
+   "commit": "published archive 5.2.0",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-core/references/api-client.md",
+    "docs/v3.47/architecture/flutter-database/references/database-tests.md",
+    "docs/v3.47/architecture/flutter-database/references/grpc-streaming.md",
+    "docs/v3.47/architecture/flutter-network/references/grpc.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_timezone/versions/5.1.1",
+   "commit": "published archive 5.1.1",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/local-notifications.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/flutter_animate/versions/4.5.2",
+   "commit": "published archive 4.5.2",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/ui/flutter-animations/SKILL.md",
+    "docs/v3.47/ui/flutter-animations/references/flutter-animate-effects.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/lottie/versions/3.8.1",
+   "commit": "published archive 3.8.1",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/ui/flutter-animations/SKILL.md",
+    "docs/v3.47/ui/flutter-animations/references/rive-and-lottie.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/speech_to_text/versions/7.5.0",
+   "commit": "published archive 7.5.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-llm/references/voice-pipeline.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/drift_flutter/versions/0.3.1",
+   "commit": "published archive 0.3.1",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/freezed_annotation/versions/3.1.0",
+   "commit": "published archive 3.1.0",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-core/SKILL.md",
+    "docs/v3.47/architecture/flutter-core/references/api-client.md",
+    "docs/v3.47/architecture/flutter-database/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/SKILL.md",
+    "docs/v3.47/architecture/flutter-network/references/api-contracts.md",
+    "docs/v3.47/architecture/flutter-state/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/graphql_flutter/versions/5.3.0",
+   "commit": "published archive 5.3.0",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-network/references/graphql.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/onesignal_flutter/versions/5.7.2",
+   "commit": "published archive 5.7.2",
+   "license": "Modified MIT License",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/references/onesignal.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/protobuf/versions/6.1.0",
+   "commit": "published archive 6.1.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/references/grpc-streaming.md",
+    "docs/v3.47/architecture/flutter-network/references/grpc.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/timezone/versions/0.11.2",
+   "commit": "published archive 0.11.2",
+   "license": "BSD-2-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/local-notifications.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://pub.dev/packages/protoc_plugin/versions/25.1.0",
+   "commit": "published archive 25.1.0",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/references/grpc-streaming.md",
+    "docs/v3.47/architecture/flutter-network/references/grpc.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/cloud-messaging/manage-tokens",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/token-lifecycle.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/cloud-messaging/flutter/get-started",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/token-lifecycle.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://firebase.google.com/docs/firestore/manage-data/enable-offline",
+   "commit": "page read 2026-10-31",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/references/supabase-and-firestore.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://supabase.com/docs/guides/realtime/postgres-changes",
+   "commit": "page read 2026-10-31",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/references/supabase-and-firestore.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.android.com/about/versions/14/changes/schedule-exact-alarms",
+   "commit": "page last updated 2026-03-03",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/SKILL.md",
+    "docs/v3.47/features/flutter-notifications/references/local-notifications.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.android.com/develop/ui/views/notifications/notification-permission",
+   "commit": "page last updated 2026-10-28",
+   "license": "Google content licence (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/references/permissions.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/grpc/grpc-web/tree/306eb6e57558a5761f668b4d983086ce1253840c",
+   "commit": "306eb6e57558a5761f668b4d983086ce1253840c",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-network/references/grpc.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/flutter/flutter/tree/c197ca5199e9ee5661e865596c9c07294dfab51c/engine/src/flutter/shell/platform",
+   "commit": "c197ca5199e9ee5661e865596c9c07294dfab51c",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/ui/flutter-animations/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/flutter/flutter/tree/c197ca5199e9ee5661e865596c9c07294dfab51c/packages/flutter_tools",
+   "commit": "c197ca5199e9ee5661e865596c9c07294dfab51c",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/quality/flutter-performance/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/dart-lang/sdk/tree/416e33b0ffaef062a60ec966bb8c82ed2b83f128/sdk/lib/isolate",
+   "commit": "416e33b0ffaef062a60ec966bb8c82ed2b83f128",
+   "license": "BSD-3-Clause",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/quality/flutter-performance/references/isolate-worker.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "Xcode 27.2 (27B52), iPhoneOS SDK, UIKit.framework/Headers/UIGlassEffect.h",
+   "commit": "Xcode 27.2 build 27B52",
+   "license": "Apple SDK licence, all rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/ui/flutter-theme/SKILL.md",
+    "docs/v3.47/ui/flutter-theme/references/liquid-glass.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/documentation/usernotifications/asking-permission-to-use-notifications",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-notifications/references/permissions.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://developer.apple.com/documentation/uikit/uiaccessibility/isreducemotionenabled",
+   "commit": "page read 2026-10-31",
+   "license": "All rights reserved (facts only)",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/ui/flutter-animations/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/firebase/agent-skills/tree/09fe6d688e0f9d0ff73f141b8d12f4013b86e19b",
+   "commit": "09fe6d688e0f9d0ff73f141b8d12f4013b86e19b",
+   "license": "Apache-2.0",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-llm/SKILL.md",
+    "docs/v3.47/features/flutter-analytics-firebase/SKILL.md",
+    "docs/v3.47/architecture/flutter-database/references/supabase-and-firestore.md",
+    "docs/v3.47/rules/flutter-firebase/RULE.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/firebase/firebase-tools/tree/bcfdf555e2440f994d52d74f6b6efe39d623e790",
+   "commit": "bcfdf555e2440f994d52d74f6b6efe39d623e790",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-llm/SKILL.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/stripe/ai/tree/1e24cf59cb0dd78df298afc3b7d372e5a5055ece/skills/stripe-best-practices",
+   "commit": "1e24cf59cb0dd78df298afc3b7d372e5a5055ece",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/features/flutter-payments/SKILL.md",
+    "docs/v3.47/features/flutter-payments/references/server-receipt-validation.md"
+   ],
+   "copied": false
+  },
+  {
+   "from": "https://github.com/supabase/agent-skills/tree/c9be0e931b7930f7d02126d04774d904c381e7d7/skills/supabase",
+   "commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+   "license": "MIT",
+   "read": "2026-10-31",
+   "informed": [
+    "docs/v3.47/architecture/flutter-database/references/supabase-and-firestore.md",
+    "docs/v3.47/features/flutter-auth/SKILL.md"
+   ],
+   "copied": false
+  }
+ ]
+}

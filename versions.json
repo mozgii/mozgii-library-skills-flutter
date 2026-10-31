@@ -1,0 +1,876 @@
+{
+  "packages": [
+    {
+      "name": "animations",
+      "ecosystem": "pub",
+      "version": "3.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "app_links",
+      "ecosystem": "pub",
+      "version": "7.2.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "args",
+      "ecosystem": "pub",
+      "version": "2.7.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "bloc",
+      "ecosystem": "pub",
+      "version": "9.2.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "build_cli",
+      "ecosystem": "pub",
+      "version": "2.3.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "build_runner",
+      "ecosystem": "pub",
+      "version": "2.16.1",
+      "checked": "2026-10-31",
+      "held": "2.17.1 needs build 5, which envied_generator 1.3.10, hive_ce_generator 1.12.0, injectable_generator 3.1.3, isar_community_generator 3.4.1 and riverpod_generator 4.0.9 refuse; 2.16.2 needs analyzer 14.3, which injectable_generator 3.1.3 refuses through lean_builder."
+    },
+    {
+      "name": "built_value",
+      "ecosystem": "pub",
+      "version": "8.13.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "cached_network_image",
+      "ecosystem": "pub",
+      "version": "4.0.6",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "checks",
+      "ecosystem": "pub",
+      "version": "0.3.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "cli_util",
+      "ecosystem": "pub",
+      "version": "0.6.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "cloud_firestore",
+      "ecosystem": "pub",
+      "version": "7.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "code_assets",
+      "ecosystem": "pub",
+      "version": "2.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "connectivity_plus",
+      "ecosystem": "pub",
+      "version": "7.3.1",
+      "checked": "2026-10-31",
+      "held": "7.3.2 needs dbus 0.8 through nm 0.6; geolocator 14.1.2 needs dbus 0.7 through geolocator_linux."
+    },
+    {
+      "name": "coverage",
+      "ecosystem": "pub",
+      "version": "1.16.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "cronet_http",
+      "ecosystem": "pub",
+      "version": "1.10.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "crypto",
+      "ecosystem": "pub",
+      "version": "3.0.8",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "cryptography",
+      "ecosystem": "pub",
+      "version": "2.9.0",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "cupertino_http",
+      "ecosystem": "pub",
+      "version": "3.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "cupertino_ui",
+      "ecosystem": "pub",
+      "version": "1.1.5",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "dart_mcp_server",
+      "ecosystem": "pub",
+      "version": "1.2.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "device_info_plus",
+      "ecosystem": "pub",
+      "version": "13.3.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "dio",
+      "ecosystem": "pub",
+      "version": "5.11.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "dio_cache_interceptor",
+      "ecosystem": "pub",
+      "version": "4.0.7",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "dio_cache_interceptor_hive_store",
+      "ecosystem": "pub",
+      "version": "4.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "drift",
+      "ecosystem": "pub",
+      "version": "2.35.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "drift_dev",
+      "ecosystem": "pub",
+      "version": "2.35.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "drift_flutter",
+      "ecosystem": "pub",
+      "version": "0.3.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "dynamic_color",
+      "ecosystem": "pub",
+      "version": "2.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "envied",
+      "ecosystem": "pub",
+      "version": "1.3.10",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "envied_generator",
+      "ecosystem": "pub",
+      "version": "1.3.10",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "fake_async",
+      "ecosystem": "pub",
+      "version": "1.3.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "ffi",
+      "ecosystem": "pub",
+      "version": "2.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "ffigen",
+      "ecosystem": "pub",
+      "version": "23.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "file",
+      "ecosystem": "pub",
+      "version": "7.0.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "firebase_ai",
+      "ecosystem": "pub",
+      "version": "5.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "firebase_analytics",
+      "ecosystem": "pub",
+      "version": "13.0.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "firebase_app_check",
+      "ecosystem": "pub",
+      "version": "0.5.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "firebase_app_installations",
+      "ecosystem": "pub",
+      "version": "0.5.1",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "firebase_auth",
+      "ecosystem": "pub",
+      "version": "7.0.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "firebase_core",
+      "ecosystem": "pub",
+      "version": "5.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "firebase_crashlytics",
+      "ecosystem": "pub",
+      "version": "6.0.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "firebase_messaging",
+      "ecosystem": "pub",
+      "version": "17.0.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "firebase_performance",
+      "ecosystem": "pub",
+      "version": "0.12.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "fixnum",
+      "ecosystem": "pub",
+      "version": "1.1.1",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "flex_color_scheme",
+      "ecosystem": "pub",
+      "version": "9.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_animate",
+      "ecosystem": "pub",
+      "version": "4.5.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_bloc",
+      "ecosystem": "pub",
+      "version": "9.1.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_edge_ai",
+      "ecosystem": "pub",
+      "version": "2.5.4",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_edge_ai_litertlm",
+      "ecosystem": "pub",
+      "version": "1.19.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_edge_ai_llama",
+      "ecosystem": "pub",
+      "version": "0.0.4",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_edge_ai_onnx",
+      "ecosystem": "pub",
+      "version": "0.6.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_edge_ai_rag",
+      "ecosystem": "pub",
+      "version": "1.1.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_gemma",
+      "ecosystem": "pub",
+      "version": "1.11.4",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_gen",
+      "ecosystem": "pub",
+      "version": "5.15.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_hooks",
+      "ecosystem": "pub",
+      "version": "0.21.3+1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_jailbreak_detection",
+      "ecosystem": "pub",
+      "version": "1.10.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_lints",
+      "ecosystem": "pub",
+      "version": "6.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_local_notifications",
+      "ecosystem": "pub",
+      "version": "22.3.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_riverpod",
+      "ecosystem": "pub",
+      "version": "3.4.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_secure_storage",
+      "ecosystem": "pub",
+      "version": "11.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_stripe",
+      "ecosystem": "pub",
+      "version": "14.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_timezone",
+      "ecosystem": "pub",
+      "version": "5.1.1",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "flutter_tts",
+      "ecosystem": "pub",
+      "version": "4.2.5",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "flutter_windowmanager",
+      "ecosystem": "pub",
+      "version": "0.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "fpdart",
+      "ecosystem": "pub",
+      "version": "1.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "freezed",
+      "ecosystem": "pub",
+      "version": "4.0.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "freezed_annotation",
+      "ecosystem": "pub",
+      "version": "3.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "gap",
+      "ecosystem": "pub",
+      "version": "3.0.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "genui",
+      "ecosystem": "pub",
+      "version": "0.10.4",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "geolocator",
+      "ecosystem": "pub",
+      "version": "14.1.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "get_it",
+      "ecosystem": "pub",
+      "version": "9.3.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "go_router",
+      "ecosystem": "pub",
+      "version": "18.1.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "go_router_builder",
+      "ecosystem": "pub",
+      "version": "4.5.3",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "google_fonts",
+      "ecosystem": "pub",
+      "version": "9.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "google_generative_ai",
+      "ecosystem": "pub",
+      "version": "0.4.7",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "google_sign_in",
+      "ecosystem": "pub",
+      "version": "7.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "google_sign_in_web",
+      "ecosystem": "pub",
+      "version": "1.1.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "graphql_flutter",
+      "ecosystem": "pub",
+      "version": "5.3.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "grpc",
+      "ecosystem": "pub",
+      "version": "5.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "hive",
+      "ecosystem": "pub",
+      "version": "2.2.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "hive_ce",
+      "ecosystem": "pub",
+      "version": "2.22.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "hive_ce_flutter",
+      "ecosystem": "pub",
+      "version": "2.5.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "hive_ce_generator",
+      "ecosystem": "pub",
+      "version": "1.12.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "hooks",
+      "ecosystem": "pub",
+      "version": "2.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "hooks_riverpod",
+      "ecosystem": "pub",
+      "version": "3.4.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "http",
+      "ecosystem": "pub",
+      "version": "1.6.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "http_cache_hive_store",
+      "ecosystem": "pub",
+      "version": "5.1.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "injectable",
+      "ecosystem": "pub",
+      "version": "3.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "injectable_generator",
+      "ecosystem": "pub",
+      "version": "3.1.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "intl",
+      "ecosystem": "pub",
+      "version": "0.20.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "io",
+      "ecosystem": "pub",
+      "version": "1.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "isar",
+      "ecosystem": "pub",
+      "version": "3.1.0+1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "isar_community",
+      "ecosystem": "pub",
+      "version": "3.4.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "isar_community_flutter_libs",
+      "ecosystem": "pub",
+      "version": "3.4.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "isar_community_generator",
+      "ecosystem": "pub",
+      "version": "3.4.1",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "jnigen",
+      "ecosystem": "pub",
+      "version": "1.0.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "json_annotation",
+      "ecosystem": "pub",
+      "version": "4.12.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "json_serializable",
+      "ecosystem": "pub",
+      "version": "6.15.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "just_audio",
+      "ecosystem": "pub",
+      "version": "0.10.6",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "lints",
+      "ecosystem": "pub",
+      "version": "6.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "local_auth",
+      "ecosystem": "pub",
+      "version": "3.0.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "lottie",
+      "ecosystem": "pub",
+      "version": "3.8.1",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "material_ui",
+      "ecosystem": "pub",
+      "version": "1.9.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "mockito",
+      "ecosystem": "pub",
+      "version": "5.8.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "mocktail",
+      "ecosystem": "pub",
+      "version": "1.0.5",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "native_dio_adapter",
+      "ecosystem": "pub",
+      "version": "1.8.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "native_toolchain_c",
+      "ecosystem": "pub",
+      "version": "0.19.5",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "onesignal_flutter",
+      "ecosystem": "pub",
+      "version": "5.7.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "option",
+      "ecosystem": "pub",
+      "version": "1.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "otp",
+      "ecosystem": "pub",
+      "version": "3.2.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "package_info_plus",
+      "ecosystem": "pub",
+      "version": "10.2.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "path",
+      "ecosystem": "pub",
+      "version": "1.9.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "path_provider",
+      "ecosystem": "pub",
+      "version": "2.1.6",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "pay",
+      "ecosystem": "pub",
+      "version": "3.3.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "permission_handler",
+      "ecosystem": "pub",
+      "version": "13.0.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "pinput",
+      "ecosystem": "pub",
+      "version": "7.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "pretty_dio_logger",
+      "ecosystem": "pub",
+      "version": "1.4.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "protobuf",
+      "ecosystem": "pub",
+      "version": "6.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "protoc_plugin",
+      "ecosystem": "pub",
+      "version": "25.1.0",
+      "checked": "2026-10-31"
+    },
+    {
+      "name": "provider",
+      "ecosystem": "pub",
+      "version": "6.1.5+1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "purchases_flutter",
+      "ecosystem": "pub",
+      "version": "11.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "qr_flutter",
+      "ecosystem": "pub",
+      "version": "4.1.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "record",
+      "ecosystem": "pub",
+      "version": "7.1.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "record_use",
+      "ecosystem": "pub",
+      "version": "1.1.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "rive",
+      "ecosystem": "pub",
+      "version": "0.14.11",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "riverpod_annotation",
+      "ecosystem": "pub",
+      "version": "4.0.7",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "riverpod_generator",
+      "ecosystem": "pub",
+      "version": "4.0.9",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "screen_protector",
+      "ecosystem": "pub",
+      "version": "1.5.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "shimmer",
+      "ecosystem": "pub",
+      "version": "4.0.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "sign_in_with_apple",
+      "ecosystem": "pub",
+      "version": "8.2.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "skills",
+      "ecosystem": "pub",
+      "version": "1.0.4",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "skills_lint",
+      "ecosystem": "pub",
+      "version": "0.5.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "slang",
+      "ecosystem": "pub",
+      "version": "4.19.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "speech_to_text",
+      "ecosystem": "pub",
+      "version": "7.5.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "sqlcipher_flutter_libs",
+      "ecosystem": "pub",
+      "version": "0.7.0+eol",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "sqlite3",
+      "ecosystem": "pub",
+      "version": "3.8.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "sqlite3_flutter_libs",
+      "ecosystem": "pub",
+      "version": "0.6.0+eol",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "supabase_flutter",
+      "ecosystem": "pub",
+      "version": "2.18.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "test",
+      "ecosystem": "pub",
+      "version": "1.33.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "test_descriptor",
+      "ecosystem": "pub",
+      "version": "2.0.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "test_process",
+      "ecosystem": "pub",
+      "version": "2.1.1",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "timezone",
+      "ecosystem": "pub",
+      "version": "0.11.2",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "url_launcher",
+      "ecosystem": "pub",
+      "version": "6.3.3",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "uuid",
+      "ecosystem": "pub",
+      "version": "4.6.0",
+      "checked": "2026-10-30"
+    },
+    {
+      "name": "very_good_analysis",
+      "ecosystem": "pub",
+      "version": "11.0.0",
+      "checked": "2026-10-30"
+    }
+  ]
+}

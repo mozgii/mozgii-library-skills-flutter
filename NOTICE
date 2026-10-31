@@ -1,0 +1,142 @@
+Flutter skills
+Copyright 2026 MOZGII, Inc. (https://mozgii.com/)
+
+Every text in this library is written by MOZGII, Inc. The sources below were read as context for facts; nothing was copied from them.
+
+- Flutter team, https://github.com/flutter/agent-plugins at 90fa51dc9d1bd6694cee226397e08ec8193e9e69, BSD-3-Clause
+- Dart team, https://github.com/dart-lang/skills at bf984f3ef223dd85e92036f934bbcb6bf301e4ce, BSD-3-Clause
+- Dart team, https://github.com/dart-lang/ai at bdf8ad8f6a343064bb03812a8a34ac1347e1b763, BSD-3-Clause
+- Flutter team, https://github.com/flutter/packages at e830a53712a7344872c827360c0e9ae87c9f243d, BSD-3-Clause
+- Flutter team, https://github.com/flutter/website at 0bc43fcc88cf8cb8094d6600e3931f0874a00283, CC-BY-4.0 (text), BSD-3-Clause (code)
+- Dart team, https://github.com/dart-lang/site-www at 65689ef23022fb619bff44ad9500ba2b79d250e0, CC-BY-4.0 (text), BSD-3-Clause (code)
+- Google, https://developer.android.com/google/play/requirements/target-sdk at page last updated 2026-10-28, Android Developers content licence (facts only)
+- Apple, https://developer.apple.com/news/upcoming-requirements/ at page read 2026-10-30, All rights reserved (facts only)
+- pub.dev package checks, https://pub.dev/packages/checks at published archive 0.3.2, BSD-3-Clause
+- pub.dev package coverage, https://pub.dev/packages/coverage at published archive 1.16.0, BSD-3-Clause
+- pub.dev package cupertino_ui, https://pub.dev/packages/cupertino_ui at published archive 1.1.5, BSD-3-Clause
+- pub.dev package dart_mcp_server, https://pub.dev/packages/dart_mcp_server at published archive 1.2.2, BSD-3-Clause
+- pub.dev package dio_cache_interceptor, https://pub.dev/packages/dio_cache_interceptor at published archive 4.0.7, Apache-2.0
+- pub.dev package drift, https://pub.dev/packages/drift at published archive 2.35.3, MIT
+- pub.dev package ffigen, https://pub.dev/packages/ffigen at published archive 23.0.0, BSD-3-Clause
+- pub.dev package firebase_ai, https://pub.dev/packages/firebase_ai at published archive 5.1.0, Apache-2.0
+- pub.dev package firebase_app_check, https://pub.dev/packages/firebase_app_check at published archive 0.5.1, BSD-3-Clause
+- pub.dev package flutter_edge_ai, https://pub.dev/packages/flutter_edge_ai at published archive 2.5.4, MIT
+- pub.dev package flutter_edge_ai_litertlm, https://pub.dev/packages/flutter_edge_ai_litertlm at published archive 1.19.0, MIT
+- pub.dev package flutter_gemma, https://pub.dev/packages/flutter_gemma at published archive 1.11.4, MIT
+- pub.dev package flutter_local_notifications, https://pub.dev/packages/flutter_local_notifications at published archive 22.3.3, BSD-3-Clause
+- pub.dev package flutter_riverpod, https://pub.dev/packages/flutter_riverpod at published archive 3.4.3, MIT
+- pub.dev package flutter_secure_storage, https://pub.dev/packages/flutter_secure_storage at published archive 11.2.0, BSD-3-Clause
+- pub.dev package flutter_stripe, https://pub.dev/packages/flutter_stripe at published archive 14.2.0, MIT
+- pub.dev package freezed, https://pub.dev/packages/freezed at published archive 4.0.3, MIT
+- pub.dev package go_router, https://pub.dev/packages/go_router at published archive 18.1.2, BSD-3-Clause
+- pub.dev package go_router_builder, https://pub.dev/packages/go_router_builder at published archive 4.5.3, BSD-3-Clause
+- pub.dev package google_sign_in, https://pub.dev/packages/google_sign_in at published archive 7.2.0, BSD-3-Clause
+- pub.dev package graphql, https://pub.dev/packages/graphql at published archive 5.2.4, MIT
+- pub.dev package hive_ce, https://pub.dev/packages/hive_ce at published archive 2.22.0, Apache-2.0
+- pub.dev package hooks, https://pub.dev/packages/hooks at published archive 2.2.0, BSD-3-Clause
+- pub.dev package http_cache_core, https://pub.dev/packages/http_cache_core at published archive 1.1.4, Apache-2.0
+- pub.dev package http_cache_hive_store, https://pub.dev/packages/http_cache_hive_store at published archive 5.1.1, Apache-2.0
+- pub.dev package isar_community, https://pub.dev/packages/isar_community at published archive 3.4.1, Apache-2.0
+- pub.dev package local_auth, https://pub.dev/packages/local_auth at published archive 3.0.2, BSD-3-Clause
+- pub.dev package material_ui, https://pub.dev/packages/material_ui at published archive 1.9.0, BSD-3-Clause
+- pub.dev package mockito, https://pub.dev/packages/mockito at published archive 5.8.1, Apache-2.0
+- pub.dev package mocktail, https://pub.dev/packages/mocktail at published archive 1.0.5, MIT
+- pub.dev package native_toolchain_c, https://pub.dev/packages/native_toolchain_c at published archive 0.19.5, BSD-3-Clause
+- pub.dev package no_screenshot, https://pub.dev/packages/no_screenshot at published archive 2.0.1, BSD-3-Clause
+- pub.dev package pinput, https://pub.dev/packages/pinput at published archive 7.0.0, MIT
+- pub.dev package purchases_flutter, https://pub.dev/packages/purchases_flutter at published archive 11.0.0, MIT
+- pub.dev package rive, https://pub.dev/packages/rive at published archive 0.14.11, MIT
+- pub.dev package riverpod, https://pub.dev/packages/riverpod at published archive 3.4.3, MIT
+- pub.dev package riverpod_annotation, https://pub.dev/packages/riverpod_annotation at published archive 4.0.7, MIT
+- pub.dev package riverpod_generator, https://pub.dev/packages/riverpod_generator at published archive 4.0.9, MIT
+- pub.dev package screen_protector, https://pub.dev/packages/screen_protector at published archive 1.5.3, Apache-2.0
+- pub.dev package sqlcipher_flutter_libs, https://pub.dev/packages/sqlcipher_flutter_libs at published archive 0.7.0+eol, Apache-2.0
+- pub.dev package sqlite3, https://pub.dev/packages/sqlite3 at published archive 3.8.0, MIT
+- pub.dev package sqlite3_flutter_libs, https://pub.dev/packages/sqlite3_flutter_libs at published archive 0.6.0+eol, MIT
+- Apple, https://developer.apple.com/app-store/review/guidelines/ at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/app-store/small-business-program/ at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/app-store/business-models/ at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/support/apps-in-the-eu at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/news/?id=dadukodv at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/app-store/user-privacy-and-data-use/ at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/documentation/bundleresources/privacy-manifest-files at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/documentation/appstoreserverapi at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/help/app-store-connect/reference/app-information/screenshot-specifications/ at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/forums/thread/81150 at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/forums/thread/671678 at page read 2026-10-31, All rights reserved (facts only)
+- Google, https://support.google.com/googleplay/android-developer/answer/112622 at page read 2026-10-31, Google content licence (facts only)
+- Google, https://support.google.com/googleplay/android-developer/answer/10281818 at page read 2026-10-31, Google content licence (facts only)
+- Google, https://support.google.com/googleplay/android-developer/answer/16470497 at page read 2026-10-31, Google content licence (facts only)
+- Google, https://support.google.com/googleplay/android-developer/answer/10144311 at page read 2026-10-31, Google content licence (facts only)
+- Google, https://support.google.com/googleplay/android-developer/answer/13327111 at page read 2026-10-31, Google content licence (facts only)
+- Google, https://developer.android.com/google/play/billing/security at page read 2026-10-31, Google content licence (facts only)
+- Google, https://developer.android.com/identity/user-data-ids at page read 2026-10-31, Google content licence (facts only)
+- Google, https://developer.android.com/privacy-and-security/security-config at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/projects/api-keys at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/analytics/configure-data-collection at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/analytics/android/configure-data-collection at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/analytics/userid at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/crashlytics/flutter/customize-crash-reports at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/crashlytics/flutter/get-deobfuscated-reports at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/perf-mon/disable-sdk at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/perf-mon/app-start-foreground-background-traces at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/app-check/custom-resource-backend at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/app-check/enable-enforcement at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/app-check/flutter/debug-provider at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/auth/flutter/federated-auth at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/reference/rules/rules.firestore.Request at page read 2026-10-31, Google content licence (facts only)
+- Google, https://docs.cloud.google.com/identity-platform/docs/admin/email-enumeration-protection at page read 2026-10-31, Google content licence (facts only)
+- Google, https://developers.google.com/tag-platform/security/guides/app-consent at page read 2026-10-31, Google content licence (facts only)
+- Google, https://support.google.com/analytics/answer/9267744 at page read 2026-10-31, Google content licence (facts only)
+- Stripe, https://docs.stripe.com/webhooks at page read 2026-10-31, All rights reserved (facts only)
+- RevenueCat, https://www.revenuecat.com/docs/integrations/webhooks/event-types-and-fields at page read 2026-10-31, All rights reserved (facts only)
+- RevenueCat, https://www.revenuecat.com/docs/customers/customer-info at page read 2026-10-31, All rights reserved (facts only)
+- OWASP, https://owasp.org/www-project-mobile-top-10/ at page and repository index read 2026-10-31, OWASP project page (facts only)
+- OWASP, https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html at page read 2026-10-31, CC-BY-SA-4.0
+- Google, https://github.com/google/bundletool at 586a43a450712a1067f3d92cf7574dee68226302, Apache-2.0
+- pub.dev package dio, https://pub.dev/packages/dio at published archive 5.11.1, MIT
+- pub.dev package native_dio_adapter, https://pub.dev/packages/native_dio_adapter at published archive 1.8.0, Apache-2.0
+- pub.dev package supabase_flutter, https://pub.dev/packages/supabase_flutter at published archive 2.18.3, MIT
+- pub.dev package gotrue, https://pub.dev/packages/gotrue at published archive 2.27.3, MIT
+- pub.dev package pay, https://pub.dev/packages/pay at published archive 3.3.0, Apache-2.0
+- pub.dev package flutter_jailbreak_detection, https://pub.dev/packages/flutter_jailbreak_detection at published archive 1.10.0, BSD-3-Clause
+- pub.dev package device_info_plus, https://pub.dev/packages/device_info_plus at published archive 13.3.0, BSD-3-Clause
+- pub.dev package envied, https://pub.dev/packages/envied at published archive 1.3.10, MIT
+- pub.dev package firebase_analytics, https://pub.dev/packages/firebase_analytics at published archive 13.0.1, BSD-3-Clause
+- pub.dev package firebase_auth, https://pub.dev/packages/firebase_auth at published archive 7.0.1, BSD-3-Clause
+- pub.dev package firebase_performance, https://pub.dev/packages/firebase_performance at published archive 0.12.1, BSD-3-Clause
+- pub.dev package firebase_app_installations, https://pub.dev/packages/firebase_app_installations at published archive 0.5.1, BSD-3-Clause
+- pub.dev package sign_in_with_apple, https://pub.dev/packages/sign_in_with_apple at published archive 8.2.0, MIT
+- pub.dev package connectivity_plus, https://pub.dev/packages/connectivity_plus at published archive 7.3.2, BSD-3-Clause
+- pub.dev package geolocator, https://pub.dev/packages/geolocator at published archive 14.1.2, MIT
+- pub.dev package cryptography, https://pub.dev/packages/cryptography at published archive 2.9.0, Apache-2.0
+- pub.dev package stripe_platform_interface, https://pub.dev/packages/stripe_platform_interface at published archive 14.2.0, MIT
+- pub.dev package firebase_messaging, https://pub.dev/packages/firebase_messaging at published archive 17.0.1, BSD-3-Clause
+- pub.dev package grpc, https://pub.dev/packages/grpc at published archive 5.2.0, Apache-2.0
+- pub.dev package flutter_timezone, https://pub.dev/packages/flutter_timezone at published archive 5.1.1, Apache-2.0
+- pub.dev package flutter_animate, https://pub.dev/packages/flutter_animate at published archive 4.5.2, BSD-3-Clause
+- pub.dev package lottie, https://pub.dev/packages/lottie at published archive 3.8.1, MIT
+- pub.dev package speech_to_text, https://pub.dev/packages/speech_to_text at published archive 7.5.0, BSD-3-Clause
+- pub.dev package drift_flutter, https://pub.dev/packages/drift_flutter at published archive 0.3.1, MIT
+- pub.dev package freezed_annotation, https://pub.dev/packages/freezed_annotation at published archive 3.1.0, MIT
+- pub.dev package graphql_flutter, https://pub.dev/packages/graphql_flutter at published archive 5.3.0, MIT
+- pub.dev package onesignal_flutter, https://pub.dev/packages/onesignal_flutter at published archive 5.7.2, Modified MIT License
+- pub.dev package protobuf, https://pub.dev/packages/protobuf at published archive 6.1.0, BSD-3-Clause
+- pub.dev package timezone, https://pub.dev/packages/timezone at published archive 0.11.2, BSD-2-Clause
+- pub.dev package protoc_plugin, https://pub.dev/packages/protoc_plugin at published archive 25.1.0, BSD-3-Clause
+- Google, https://firebase.google.com/docs/cloud-messaging/manage-tokens at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/cloud-messaging/flutter/get-started at page read 2026-10-31, Google content licence (facts only)
+- Google, https://firebase.google.com/docs/firestore/manage-data/enable-offline at page read 2026-10-31, Google content licence (facts only)
+- Supabase, https://supabase.com/docs/guides/realtime/postgres-changes at page read 2026-10-31, Apache-2.0
+- Google, https://developer.android.com/about/versions/14/changes/schedule-exact-alarms at page last updated 2026-03-03, Google content licence (facts only)
+- Google, https://developer.android.com/develop/ui/views/notifications/notification-permission at page last updated 2026-10-28, Google content licence (facts only)
+- gRPC authors, https://github.com/grpc/grpc-web at 306eb6e57558a5761f668b4d983086ce1253840c, Apache-2.0
+- Flutter team, https://github.com/flutter/flutter (engine platform source, flutter_tools) at c197ca5199e9ee5661e865596c9c07294dfab51c, BSD-3-Clause
+- Dart team, https://github.com/dart-lang/sdk at 416e33b0ffaef062a60ec966bb8c82ed2b83f128, BSD-3-Clause
+- Apple, Xcode 27.2 (27B52), iPhoneOS SDK, UIKit.framework/Headers/UIGlassEffect.h at Xcode 27.2 build 27B52, Apple SDK licence, all rights reserved (facts only)
+- Apple, https://developer.apple.com/documentation/usernotifications/asking-permission-to-use-notifications at page read 2026-10-31, All rights reserved (facts only)
+- Apple, https://developer.apple.com/documentation/uikit/uiaccessibility/isreducemotionenabled at page read 2026-10-31, All rights reserved (facts only)
+- Firebase, https://github.com/firebase/agent-skills at 09fe6d688e0f9d0ff73f141b8d12f4013b86e19b, Apache-2.0
+- Firebase, https://github.com/firebase/firebase-tools at bcfdf555e2440f994d52d74f6b6efe39d623e790, MIT
+- Stripe, https://github.com/stripe/ai at 1e24cf59cb0dd78df298afc3b7d372e5a5055ece, MIT
+- Supabase, https://github.com/supabase/agent-skills at c9be0e931b7930f7d02126d04774d904c381e7d7, MIT

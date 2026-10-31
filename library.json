@@ -1,0 +1,13 @@
+{
+  "name": "flutter",
+  "title": "Flutter skills",
+  "description": "Production Flutter and Dart: 35 skills and 5 rules, from architecture to store compliance.",
+  "author": "MOZGII, Inc.",
+  "url": "https://mozgii.com",
+  "coauthor": "",
+  "coauthorUrl": "",
+  "version": "1.1.0",
+  "selftest": {
+    "minimum": 0.85
+  }
+}

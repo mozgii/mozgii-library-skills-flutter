@@ -1,0 +1,597 @@
+[
+ {
+  "question": "How do I keep a Riverpod provider alive when the user leaves a page?",
+  "answer": "keepAlive",
+  "file": "v3.47/architecture/flutter-state/SKILL.md"
+ },
+ {
+  "question": "How do I stop the theme flashing light before dark when the app starts?",
+  "answer": "zero flash",
+  "file": "v3.47/architecture/flutter-state/SKILL.md"
+ },
+ {
+  "question": "Lock the app with a PIN when it comes back from the background",
+  "answer": "PIN Lock on App Resume",
+  "file": "v3.47/architecture/flutter-state/SKILL.md"
+ },
+ {
+  "question": "Which folders should a Flutter feature have?",
+  "answer": "Folder Structure",
+  "file": "v3.47/rules/flutter-architecture/RULE.md"
+ },
+ {
+  "question": "Can a widget call the repository directly?",
+  "answer": "Layer Separation",
+  "file": "v3.47/rules/flutter-architecture/RULE.md"
+ },
+ {
+  "question": "How long may a Dart file be?",
+  "answer": "File Size Limits",
+  "file": "v3.47/rules/flutter-architecture/RULE.md"
+ },
+ {
+  "question": "What lint rules and coverage do we require?",
+  "answer": "Coverage Thresholds",
+  "file": "v3.47/rules/flutter-quality/RULE.md"
+ },
+ {
+  "question": "Golden tests for design system widgets",
+  "answer": "Golden Tests",
+  "file": "v3.47/rules/flutter-quality/RULE.md"
+ },
+ {
+  "question": "In what order do I initialise Firebase?",
+  "answer": "Initialization Order",
+  "file": "v3.47/rules/flutter-firebase/RULE.md"
+ },
+ {
+  "question": "Should google-services.json go into git?",
+  "answer": "Firebase Config Files",
+  "file": "v3.47/rules/flutter-firebase/RULE.md"
+ },
+ {
+  "question": "Does iOS need a privacy manifest?",
+  "answer": "Privacy Manifest",
+  "file": "v3.47/rules/flutter-store-compliance/RULE.md"
+ },
+ {
+  "question": "What do I fill in for the Google Play data safety form?",
+  "answer": "Data Safety",
+  "file": "v3.47/rules/flutter-store-compliance/RULE.md"
+ },
+ {
+  "question": "How do I set up integration tests for a Flutter app?",
+  "answer": "integration_test",
+  "file": "v3.47/quality/flutter-add-integration-test/SKILL.md"
+ },
+ {
+  "question": "Preview a widget without running the whole app",
+  "answer": "Where the Annotation Can Go",
+  "file": "v3.47/ui/flutter-add-widget-preview/SKILL.md"
+ },
+ {
+  "question": "How do I write a widget test that taps a button?",
+  "answer": "tester.tap",
+  "file": "v3.47/quality/flutter-add-widget-test/SKILL.md"
+ },
+ {
+  "question": "Track screens in analytics with go_router",
+  "answer": "Screen Tracking",
+  "file": "v3.47/features/flutter-analytics-firebase/SKILL.md"
+ },
+ {
+  "question": "Ask for consent before collecting analytics under GDPR",
+  "answer": "Consent & GDPR",
+  "file": "v3.47/features/flutter-analytics-firebase/SKILL.md"
+ },
+ {
+  "question": "How do I play an After Effects animation?",
+  "answer": "Lottie",
+  "file": "v3.47/ui/flutter-animations/SKILL.md"
+ },
+ {
+  "question": "Spring physics animation in Flutter",
+  "answer": "Spring Animations",
+  "file": "v3.47/ui/flutter-animations/SKILL.md"
+ },
+ {
+  "question": "Which layers does a Flutter app have?",
+  "answer": "The Layers",
+  "file": "v3.47/architecture/flutter-apply-architecture-best-practices/SKILL.md"
+ },
+ {
+  "question": "Sign in with Apple, is it required?",
+  "answer": "Apple Sign In",
+  "file": "v3.47/features/flutter-auth/SKILL.md"
+ },
+ {
+  "question": "Where do I keep the auth token on the phone?",
+  "answer": "Secure Token Storage",
+  "file": "v3.47/features/flutter-auth/SKILL.md"
+ },
+ {
+  "question": "What has to happen when the user logs out?",
+  "answer": "Complete Logout",
+  "file": "v3.47/features/flutter-auth/SKILL.md"
+ },
+ {
+  "question": "Make the layout adapt to tablets and large screens",
+  "answer": "Keeping Content Readable on Large Screens",
+  "file": "v3.47/ui/flutter-build-responsive-layout/SKILL.md"
+ },
+ {
+  "question": "Which state management library do we use?",
+  "answer": "Riverpod Code-Gen",
+  "file": "v3.47/architecture/flutter-core/SKILL.md"
+ },
+ {
+  "question": "How do we inject dependencies?",
+  "answer": "GetIt",
+  "file": "v3.47/architecture/flutter-core/SKILL.md"
+ },
+ {
+  "question": "How do we handle errors without exceptions?",
+  "answer": "fpdart",
+  "file": "v3.47/architecture/flutter-core/SKILL.md"
+ },
+ {
+  "question": "Type-safe SQLite database for Flutter",
+  "answer": "Drift",
+  "file": "v3.47/architecture/flutter-database/SKILL.md"
+ },
+ {
+  "question": "Queue writes while offline and sync later",
+  "answer": "Offline Sync Queue",
+  "file": "v3.47/architecture/flutter-database/SKILL.md"
+ },
+ {
+  "question": "Two devices changed the same record, which one wins?",
+  "answer": "Conflict Resolution",
+  "file": "v3.47/architecture/flutter-database/SKILL.md"
+ },
+ {
+  "question": "Skeleton placeholders while content loads",
+  "answer": "Shimmer",
+  "file": "v3.47/ui/flutter-design-ui/SKILL.md"
+ },
+ {
+  "question": "Frosted glass cards",
+  "answer": "Glassmorphism",
+  "file": "v3.47/ui/flutter-design-ui/SKILL.md"
+ },
+ {
+  "question": "Detect if the user is on a VPN",
+  "answer": "VPN Detection",
+  "file": "v3.47/features/flutter-device-intelligence/SKILL.md"
+ },
+ {
+  "question": "RenderFlex overflowed error, how do I fix it?",
+  "answer": "RenderFlex",
+  "file": "v3.47/ui/flutter-fix-layout-issues/SKILL.md"
+ },
+ {
+  "question": "Parse JSON into a model class by hand",
+  "answer": "fromJson",
+  "file": "v3.47/architecture/flutter-implement-json-serialization/SKILL.md"
+ },
+ {
+  "question": "Can I put my OpenAI key in the app?",
+  "answer": "Never Put API Keys in Flutter",
+  "file": "v3.47/features/flutter-llm/SKILL.md"
+ },
+ {
+  "question": "Run a language model on the phone",
+  "answer": "flutter_edge_ai",
+  "file": "v3.47/features/flutter-llm/SKILL.md"
+ },
+ {
+  "question": "Should I use REST, gRPC or GraphQL?",
+  "answer": "REST vs gRPC vs GraphQL",
+  "file": "v3.47/architecture/flutter-network/SKILL.md"
+ },
+ {
+  "question": "HTTP client with interceptors and retries",
+  "answer": "Dio",
+  "file": "v3.47/architecture/flutter-network/SKILL.md"
+ },
+ {
+  "question": "Push notifications with Firebase Cloud Messaging",
+  "answer": "FCM Setup",
+  "file": "v3.47/features/flutter-notifications/SKILL.md"
+ },
+ {
+  "question": "Open a screen when the user taps a notification",
+  "answer": "Deep Link Navigation on Tap",
+  "file": "v3.47/features/flutter-notifications/SKILL.md"
+ },
+ {
+  "question": "Subscriptions and in-app purchases",
+  "answer": "RevenueCat",
+  "file": "v3.47/features/flutter-payments/SKILL.md"
+ },
+ {
+  "question": "Check purchase receipts on the server",
+  "answer": "Receipt Validation",
+  "file": "v3.47/features/flutter-payments/SKILL.md"
+ },
+ {
+  "question": "Move heavy work off the UI thread",
+  "answer": "Background Isolates",
+  "file": "v3.47/quality/flutter-performance/SKILL.md"
+ },
+ {
+  "question": "Make the app download smaller",
+  "answer": "App Size Reduction",
+  "file": "v3.47/quality/flutter-performance/SKILL.md"
+ },
+ {
+  "question": "Pin the server certificate",
+  "answer": "Certificate Pinning",
+  "file": "v3.47/quality/flutter-security/SKILL.md"
+ },
+ {
+  "question": "Obfuscate the release build",
+  "answer": "Obfuscation",
+  "file": "v3.47/quality/flutter-security/SKILL.md"
+ },
+ {
+  "question": "Configure deep links for routing on Android and iOS",
+  "answer": "Platform Deep Linking",
+  "file": "v3.47/architecture/flutter-setup-declarative-routing/SKILL.md"
+ },
+ {
+  "question": "Translate the app into other languages",
+  "answer": "intl",
+  "file": "v3.47/ui/flutter-setup-localization/SKILL.md"
+ },
+ {
+  "question": "Design tokens with ThemeExtension",
+  "answer": "ThemeExtension",
+  "file": "v3.47/ui/flutter-theme/SKILL.md"
+ },
+ {
+  "question": "How big should a tap target be?",
+  "answer": "Touch Target",
+  "file": "v3.47/ui/flutter-theme/SKILL.md"
+ },
+ {
+  "question": "Parse a large JSON response without freezing the UI",
+  "answer": "Parsing in the Background",
+  "file": "v3.47/architecture/flutter-use-http-package/SKILL.md"
+ },
+ {
+  "question": "Why does my Riverpod code say UserListRef is undefined after upgrading?",
+  "answer": "Riverpod 3 breaking changes",
+  "file": "v3.47/architecture/flutter-core/SKILL.md"
+ },
+ {
+  "question": "Do I have to move from package:flutter/material.dart to a new package?",
+  "answer": "material_ui",
+  "file": "v3.47/architecture/flutter-core/SKILL.md"
+ },
+ {
+  "question": "How do I test a button that shows an error when the field is empty?",
+  "answer": "pumpAndSettle",
+  "file": "v3.47/quality/flutter-add-widget-test/SKILL.md"
+ },
+ {
+  "question": "My test fails with no Material widget found",
+  "answer": "No Material widget found",
+  "file": "v3.47/quality/flutter-add-widget-test/SKILL.md"
+ },
+ {
+  "question": "Run a login flow on a real phone in Firebase Test Lab",
+  "answer": "assembleAndroidTest",
+  "file": "v3.47/quality/flutter-add-integration-test/SKILL.md"
+ },
+ {
+  "question": "How can an agent try my app before writing an end to end test?",
+  "answer": "flutter_driver_command",
+  "file": "v3.47/quality/flutter-add-integration-test/SKILL.md"
+ },
+ {
+  "question": "Show my card in light and dark without running the app",
+  "answer": "MultiPreview",
+  "file": "v3.47/ui/flutter-add-widget-preview/SKILL.md"
+ },
+ {
+  "question": "Why does a widget preview throw on dart:io?",
+  "answer": "What the Previewer Can't Run",
+  "file": "v3.47/ui/flutter-add-widget-preview/SKILL.md"
+ },
+ {
+  "question": "Where should a repository go compared with a service?",
+  "answer": "repository",
+  "file": "v3.47/architecture/flutter-apply-architecture-best-practices/SKILL.md"
+ },
+ {
+  "question": "Do I need a use case class for every screen?",
+  "answer": "use case",
+  "file": "v3.47/architecture/flutter-apply-architecture-best-practices/SKILL.md"
+ },
+ {
+  "question": "When should the bottom bar turn into a side rail?",
+  "answer": "Breakpoints That Match Material",
+  "file": "v3.47/ui/flutter-build-responsive-layout/SKILL.md"
+ },
+ {
+  "question": "Why is my app letterboxed on a foldable?",
+  "answer": "letterboxing",
+  "file": "v3.47/ui/flutter-build-responsive-layout/SKILL.md"
+ },
+ {
+  "question": "A ListView inside a Column shows nothing and throws an error",
+  "answer": "Vertical viewport was given unbounded height",
+  "file": "v3.47/ui/flutter-fix-layout-issues/SKILL.md"
+ },
+ {
+  "question": "Should I put shrinkWrap on my list inside a scroll view?",
+  "answer": "CustomScrollView",
+  "file": "v3.47/ui/flutter-fix-layout-issues/SKILL.md"
+ },
+ {
+  "question": "Why does a nullable field fail my map pattern when the key is missing?",
+  "answer": "A map pattern checks that a key exists",
+  "file": "v3.47/architecture/flutter-implement-json-serialization/SKILL.md"
+ },
+ {
+  "question": "Parsing a big response freezes the screen",
+  "answer": "Isolate.run",
+  "file": "v3.47/architecture/flutter-implement-json-serialization/SKILL.md"
+ },
+ {
+  "question": "Tabs lose their scroll position when I switch",
+  "answer": "StatefulShellRoute",
+  "file": "v3.47/architecture/flutter-setup-declarative-routing/SKILL.md"
+ },
+ {
+  "question": "The link opens Chrome rather than my Android app",
+  "answer": "assetlinks.json",
+  "file": "v3.47/architecture/flutter-setup-declarative-routing/SKILL.md"
+ },
+ {
+  "question": "Import of package:flutter_gen fails after a Flutter upgrade",
+  "answer": "Upgrading From package:flutter_gen",
+  "file": "v3.47/ui/flutter-setup-localization/SKILL.md"
+ },
+ {
+  "question": "Show 3 expenses or 1 expense correctly in each language",
+  "answer": "plural",
+  "file": "v3.47/ui/flutter-setup-localization/SKILL.md"
+ },
+ {
+  "question": "The request works in debug and fails with host lookup in a release Android build",
+  "answer": "android.permission.INTERNET",
+  "file": "v3.47/architecture/flutter-use-http-package/SKILL.md"
+ },
+ {
+  "question": "How do I test API calls with no network?",
+  "answer": "MockClient",
+  "file": "v3.47/architecture/flutter-use-http-package/SKILL.md"
+ },
+ {
+  "question": "How do I connect Claude Code to my running Flutter app?",
+  "answer": "dart-flutter@dart-flutter",
+  "file": "v3.47/quality/flutter-agent-tooling/SKILL.md"
+ },
+ {
+  "question": "launch_app is missing from the Dart MCP tools",
+  "answer": "flutter_app_lifecycle",
+  "file": "v3.47/quality/flutter-agent-tooling/SKILL.md"
+ },
+ {
+  "question": "How do I install skills that come with my pub packages?",
+  "answer": "dart run skills@ get",
+  "file": "v3.47/quality/flutter-agent-tooling/SKILL.md"
+ },
+ {
+  "question": "Should an agent hot restart or hot reload after changing initState?",
+  "answer": "hot_restart",
+  "file": "v3.47/rules/flutter-hot-reload/RULE.md"
+ },
+ {
+  "question": "How do I mock a class with build_runner?",
+  "answer": "GenerateNiceMocks",
+  "file": "v3.47/dart/dart-unit-test/SKILL.md"
+ },
+ {
+  "question": "Replace expect with a typed assertion library",
+  "answer": "package:checks",
+  "file": "v3.47/dart/dart-unit-test/SKILL.md"
+ },
+ {
+  "question": "Generate an LCOV coverage report for a Dart package",
+  "answer": "test_with_coverage",
+  "file": "v3.47/dart/dart-unit-test/SKILL.md"
+ },
+ {
+  "question": "Make the compiler force me to handle every state of a type",
+  "answer": "sealed",
+  "file": "v3.47/dart/dart-patterns/SKILL.md"
+ },
+ {
+  "question": "Match URL segments without length checks",
+  "answer": "pathSegments",
+  "file": "v3.47/dart/dart-patterns/SKILL.md"
+ },
+ {
+  "question": "Swap two variables with no temporary",
+  "answer": "swap with no temporary",
+  "file": "v3.47/dart/dart-patterns/SKILL.md"
+ },
+ {
+  "question": "Write a class with its fields in the header",
+  "answer": "class const Money",
+  "file": "v3.47/dart/dart-primary-constructors/SKILL.md"
+ },
+ {
+  "question": "Which Dart version enabled the shorter constructor syntax?",
+  "answer": "Dart 3.13",
+  "file": "v3.47/dart/dart-primary-constructors/SKILL.md"
+ },
+ {
+  "question": "The analyzer rejects a second constructor in my class",
+  "answer": "non_redirecting_generative_constructor_with_primary",
+  "file": "v3.47/dart/dart-primary-constructors/SKILL.md"
+ },
+ {
+  "question": "Turn on the strictest Dart type checks",
+  "answer": "strict-casts",
+  "file": "v3.47/dart/dart-analyze-and-fix/SKILL.md"
+ },
+ {
+  "question": "Apply automatic fixes to the whole project",
+  "answer": "dart fix --apply",
+  "file": "v3.47/dart/dart-analyze-and-fix/SKILL.md"
+ },
+ {
+  "question": "Silence one lint on one line",
+  "answer": "// ignore:",
+  "file": "v3.47/dart/dart-analyze-and-fix/SKILL.md"
+ },
+ {
+  "question": "pub get says version solving failed",
+  "answer": "version solving failed",
+  "file": "v3.47/dart/dart-manage-dependencies/SKILL.md"
+ },
+ {
+  "question": "What do the columns in pub outdated mean?",
+  "answer": "Resolvable",
+  "file": "v3.47/dart/dart-manage-dependencies/SKILL.md"
+ },
+ {
+  "question": "How do I make CI use exactly the locked versions?",
+  "answer": "--enforce-lockfile",
+  "file": "v3.47/dart/dart-manage-dependencies/SKILL.md"
+ },
+ {
+  "question": "Compile a C file as part of my Dart package",
+  "answer": "hook/build.dart",
+  "file": "v3.47/dart/dart-native-assets/SKILL.md"
+ },
+ {
+  "question": "Generate Dart bindings from a C header",
+  "answer": "FfiGenerator",
+  "file": "v3.47/dart/dart-native-assets/SKILL.md"
+ },
+ {
+  "question": "Download a prebuilt native library safely",
+  "answer": "SHA-256",
+  "file": "v3.47/dart/dart-native-assets/SKILL.md"
+ },
+ {
+  "question": "How should a doc comment start for a boolean property?",
+  "answer": "Whether",
+  "file": "v3.47/dart/dart-doc-comments/SKILL.md"
+ },
+ {
+  "question": "Keep code samples in API docs compiling",
+  "answer": "{@example",
+  "file": "v3.47/dart/dart-doc-comments/SKILL.md"
+ },
+ {
+  "question": "Link to a class the library does not import",
+  "answer": "@docImport",
+  "file": "v3.47/dart/dart-doc-comments/SKILL.md"
+ },
+ {
+  "question": "Join two paths so it works on Windows",
+  "answer": "p.join",
+  "file": "v3.47/dart/dart-path-handling/SKILL.md"
+ },
+ {
+  "question": "Stop a file name escaping the upload folder",
+  "answer": "p.isWithin",
+  "file": "v3.47/dart/dart-path-handling/SKILL.md"
+ },
+ {
+  "question": "Test file code without touching the disk",
+  "answer": "MemoryFileSystem",
+  "file": "v3.47/dart/dart-path-handling/SKILL.md"
+ },
+ {
+  "question": "Which exit code means wrong command line flags?",
+  "answer": "ExitCode.usage",
+  "file": "v3.47/dart/dart-build-cli-tool/SKILL.md"
+ },
+ {
+  "question": "Add subcommands to a Dart tool",
+  "answer": "CommandRunner",
+  "file": "v3.47/dart/dart-build-cli-tool/SKILL.md"
+ },
+ {
+  "question": "Find the dart binary from a compiled executable",
+  "answer": "sdkPath",
+  "file": "v3.47/dart/dart-build-cli-tool/SKILL.md"
+ },
+ {
+  "question": "Which target SDK does Google Play require now?",
+  "answer": "API 36",
+  "file": "v3.47/rules/flutter-store-compliance/RULE.md"
+ },
+ {
+  "question": "Encrypt the SQLite database after sqlcipher_flutter_libs was retired",
+  "answer": "source: sqlcipher",
+  "file": "v3.47/quality/flutter-security/references/encrypted-database.md"
+ },
+ {
+  "question": "Google sign in code stopped compiling after an upgrade",
+  "answer": "GoogleSignIn.instance",
+  "file": "v3.47/features/flutter-auth/SKILL.md"
+ },
+ {
+  "question": "Rive animation code no longer compiles",
+  "answer": "RiveWidgetBuilder",
+  "file": "v3.47/ui/flutter-animations/SKILL.md"
+ },
+ {
+  "question": "Analytics should stay off until the user agrees, how do I set that up natively?",
+  "answer": "Collection Off by Default in Native Config",
+  "file": "v3.47/features/flutter-analytics-firebase/SKILL.md"
+ },
+ {
+  "question": "Images keep reloading and flickering in my list, what should I use?",
+  "answer": "Cached Image Loading",
+  "file": "v3.47/ui/flutter-design-ui/SKILL.md"
+ },
+ {
+  "question": "Stable ID for this install without tracking the user",
+  "answer": "Random Install ID",
+  "file": "v3.47/features/flutter-device-intelligence/SKILL.md"
+ },
+ {
+  "question": "Prove to my own backend that requests come from the real app",
+  "answer": "Firebase App Check",
+  "file": "v3.47/features/flutter-device-intelligence/SKILL.md"
+ },
+ {
+  "question": "Talk to the app and have it read the answer aloud",
+  "answer": "Voice Input and Output",
+  "file": "v3.47/features/flutter-llm/SKILL.md"
+ },
+ {
+  "question": "A burst of 401s logs users out when the token expires, how do I refresh once?",
+  "answer": "QueuedInterceptor",
+  "file": "v3.47/architecture/flutter-network/SKILL.md"
+ },
+ {
+  "question": "Push messages aren't handled when the app is closed on Android",
+  "answer": "Background message handler",
+  "file": "v3.47/features/flutter-notifications/SKILL.md"
+ },
+ {
+  "question": "Does Apple let me link to my website for cheaper subscriptions?",
+  "answer": "Anti-Steering",
+  "file": "v3.47/features/flutter-payments/SKILL.md"
+ },
+ {
+  "question": "The list stutters because every row rebuilds on each change",
+  "answer": "Rebuild Reduction",
+  "file": "v3.47/quality/flutter-performance/SKILL.md"
+ },
+ {
+  "question": "Is my text readable in dark mode? I want a test for it",
+  "answer": "Contrast Checks in Code",
+  "file": "v3.47/ui/flutter-theme/SKILL.md"
+ }
+]
